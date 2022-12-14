@@ -1,3 +1,11 @@
 
 .ipynb_checkpoints/Step 2-PrepareFeatureSelectionRuns-checkpoint.ipynb
 .ipynb_checkpoints/Step 3-generateDepthPlots-checkpoint.ipynb
+data/GEO datasets/Renal_GSE53757_processed.csv
+data/GEO datasets/Lung_GSE19804_processed.csv
+data/GEO datasets/Liver_GSE76427_processed.csv
+data/GEO datasets/Liver_GSE14520_U133A_processed.csv
+data/GEO datasets/Colorectal_GSE44076_processed.csv
+data/GEO datasets/Breast_GSE70947_processed.csv
+data/GEO datasets/Breast_GSE42568_processed.csv
+.ipynb_checkpoints/Step 1-Datasets preparation -checkpoint.ipynb
